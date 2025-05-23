@@ -7,6 +7,9 @@ ser funcional, con backend desplegado en Azure, frontend local, y persistencia e
 MongoDB.
 
 ---
+## Autor 
+- Roger Alexander Rodriguez
+- Grupo 01
 
 ## 1. Dieño de Arquitectura
 
@@ -15,4 +18,8 @@ MongoDB.
 ![image](https://github.com/Rogerrdz/parcial/blob/main/assets/diagrama_componentes.png) 
 
 - Diagrama de clases:
+
+![image](https://github.com/Rogerrdz/parcial/blob/main/assets/diagrama_clases.png) 
+
+
 
